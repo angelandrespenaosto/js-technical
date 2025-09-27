@@ -1,0 +1,55 @@
+Javascript. Ejercicios
+1) Array o un objeto de superhéroes de Marvel
+4) Juego El ahorcado
+5) Dado un array de personas con nombres y apellidos
+crear una función para ordenar el array por los apellidos
+en orden alfabético
+8) Conversor de números romanos a arábigos y viceversa
+9) Crea una función que reciba un array de números y calcule
+la suma de todos los números pares del array
+10) Crea una función que reciba un DNI (8 números) y calcule la letra del DNI
+11)  Crea una función a la cual le pase un array de numeros
+ y un numero que será el resultado de la suma de dos de los valores
+12) Crea un programa que cuente las palabras de un texto
+15) Dada un array de palabras, crear una función que lo devuelva ordenado
+por la longitud de sus palabras de menor a mayor
+19) Crea una función que simule el lanzamiento de dos dados.
+20) Crea una función que ordene un array de objetos en base a las propiedades
+que le pase por parametro
+21) Crea una función que reciba un numero y me genere una matriz
+con el numero de columnas y filas que le hemos indicado por parámetro
+24) Crea una función a la cual le pasemos un array de nombres de archivo
+y nos devuelva un array con esos mismos archivos, pero si hay alguno
+duplicado debe estar númerado con un (numero de repeticiones)
+como hacen los sistemas operativos.
+26) Optimizar el gasto en mi gasolinera favorita.
+28) Crea una función que me diga si un número es armstrong o no.
+32) Dado un texto, crea una función que sea capaz de generar
+un nuevo texto que incluya solo las palabras de 4 caracteres o más.
+34) Crea una función a la cual le pase un array y me devuelva 
+un objeto con los elementos agrupados
+36) Crea un programa que encuentre las parejas de números que como resultado
+dan un número que pasamos a la función por parametro.
+38) Crea una función que convierta un número a binario.
+39) Dado un número crea una función que genere todas las combinaciones
+de parentesis válidas.
+47) Crea un simulador de pieda, papel o tijera.
+48) Dado un array eleva al cubo todos sus numeros y devuelve la mitad de 
+cada uno.
+49) Crea una función que dado un array de números devuelva el número 
+más pequeño de la matriz.
+50) Crea una función que dada una temperatura la pase a grados
+celsius o grados fahrenheit.
+57) Crea una función que convierta cualquier frase a una SEO slug.
+59) Crea una función que retorne el número total de bumeranes de un 
+array de números enteros e imprima cada uno de ellos.
+63) Crea una función para conseguir las sumas acumuladas de una array de numeros
+64) Crea un programa que compruebe si los paréntesis, llaves y corchetes 
+de una expresión están equilibrados, es decir, que estos delimitadores 
+se abren y cieran de forma adecuada.
+65) Dado un array de objetos de usuarios, con nombre y fecha,
+crea una función que los ordene por fecha.
+68) Crea una función que pueda generar contraseñas aleatorias.
+69) Crea una función que dado un texto, sea capaz de censurar palabras.
+
+Juego piedra papel o tijeras 
