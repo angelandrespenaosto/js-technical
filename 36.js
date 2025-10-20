@@ -21,4 +21,4 @@ function findPairs(numbers, sum) {
     return pairs
 }
 
-console.log(findPairs([2, 4, 3, 5, 8, 9, 1], 14))
+console.log(findPairs([2, 4, 3, 5, 8, 9, 1], 9))
