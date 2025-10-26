@@ -15,13 +15,6 @@ document.addEventListener("DOMContentLoaded", () => {
 
     })
 
-    function updatePlayingWord(letter) {
-        playingWord = playingWord
-            .split('')
-            .map((char, i) => (secretWord[i] === letter ? letter : char))
-            .join('')
-    }
-
     function play(letter) {
         if (attempts > 0 && playingWord !== secretWord) {
             if (secretWord.includes(letter)) {
@@ -35,6 +28,13 @@ document.addEventListener("DOMContentLoaded", () => {
 
             checkGameStatus()
         }
+    }
+
+    function updatePlayingWord(letter) {
+        playingWord = playingWord
+            .split('')
+            .map((char, i) => (secretWord[i] === letter ? letter : char))
+            .join('')
     }
 
     function checkGameStatus() {
